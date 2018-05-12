@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8780'
     url: http://www.gutenberg.org/2009/agents/8780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19609#The-Rise-of-the-Democracy
 gutenberg_issued: '2006-10-23'
 gutenberg_type: Text
 identifiers:
